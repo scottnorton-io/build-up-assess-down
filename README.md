@@ -1,5 +1,3 @@
-# README.md
-
 # Build Up, Assess Down
 
 ### A Dependency-Based Operating Model for PCI DSS Compliance
