@@ -5,6 +5,14 @@
 > **Core thesis:** When security controls are designed with dependency awareness and validated continuously, compliance becomes a byproduct of operational truth rather than a seasonal scramble for evidence.
 > 
 
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![Status](https://img.shields.io/badge/status-production--ready-brightgreen.svg)
+![Launch](https://img.shields.io/badge/beta_launch-Q1_2026-orange.svg)
+![License](https://img.shields.io/badge/license-CC_BY_4.0-blue.svg)
+![Validation](https://img.shields.io/badge/practitioner_validated-90%25+-brightgreen.svg)
+![PCI DSS](https://img.shields.io/badge/PCI_DSS-v4.0.1-blue.svg)
+![Council Compatible](https://img.shields.io/badge/PCI_SSC-compatible-blue.svg)
+
 **Status:** Production-ready • v1.0 Titanium • Q1 2026 Beta Launch
 
 [Read the Paper](#paper) • [Facilitator Guide](#workshop-materials) • [Field Kit](#field-kit) • [Citation](#citation)
