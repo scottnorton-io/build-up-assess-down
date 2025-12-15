@@ -154,11 +154,11 @@ Five practitioner templates validated through workshops with 90%+ recognition ra
 
 | Template | Path | Use Case |
 | --- | --- | --- |
-| 01: Dependency Map | [field-kit/01-dependency-map.md](field-kit/01-dependency-map.md) | Architecture review and design validation |
-| 02: Evidence Storyboard | [field-kit/02-evidence-storyboard.md](field-kit/02-evidence-storyboard.md) | Continuous evidence generation |
-| 03: Remediation Ledger | [field-kit/03-remediation-ledger.md](field-kit/03-remediation-ledger.md) | Preventing milestone theater |
-| 04: Advisor Questions | [field-kit/04-advisor-questions.md](field-kit/04-advisor-questions.md) | Shifting from compliance-checking to design-improving |
-| 05: Failure Mode Library | [field-kit/05-failure-modes.md](field-kit/05-failure-modes.md) | Pattern recognition and prevention |
+| 01: Dependency Map | [field-kit 01-dependency-map](./field-kit/field-kit.md#1-build-up-dependency-map) | Architecture review and design validation |
+| 02: Evidence Storyboard | [field-kit 02-evidence-storyboard.md](./field-kit/field-kit.md#2-assess-down-evidence-storyboard) | Continuous evidence generation |
+| 03: Remediation Ledger | [field-kit 03-remediation-ledger.md](./field-kit/field-kit.md#3-milestone-weighted-remediation-ledger) | Preventing milestone theater |
+| 04: Advisor Questions | [field-kit 04-advisor-questions.md](./field-kit/field-kit.md#4-trusted-advisor-question-conversion-bank) | Shifting from compliance-checking to design-improving |
+| 05: Failure Mode Library | [field-kit 05-failure-modes.md](./field-kit/field-kit.md#5-three-canonical-failure-modes-case-library) | Pattern recognition and prevention |
 
 ### Certification Program
 
@@ -175,7 +175,7 @@ Operational roadmap for Q1 2026 launch.
 
 | Document | Path | Description |
 | --- | --- | --- |
-| Q1 2026 Roadmap | [implementation/q1-2026-roadmap.md](implementation/q1-2026-roadmap.md) | Four-phase execution plan |
+| Q1 2026 Roadmap | [implementation/q1-2026-roadmap.md](./implementation/q1-2026-roadmap.md) | Four-phase execution plan |
 
 ### Visual Specifications
 
