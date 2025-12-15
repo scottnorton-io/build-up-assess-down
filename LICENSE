@@ -1,0 +1,97 @@
+# LICENSE
+
+# Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+## Official License Text
+
+This is a human-readable summary of (and not a substitute for) the license. [View the full legal code](https://creativecommons.org/licenses/by/4.0/legalcode).
+
+---
+
+## You are free to:
+
+**Share** — copy and redistribute the material in any medium or format for any purpose, even commercially.
+
+**Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
+
+The licensor cannot revoke these freedoms as long as you follow the license terms.
+
+---
+
+## Under the following terms:
+
+**Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+**No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+---
+
+## Notices:
+
+You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
+
+No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+
+---
+
+## How to attribute this work:
+
+When using or adapting the Build Up / Assess Down framework, please include attribution in one of the following formats:
+
+### Minimal Attribution
+
+```
+Build Up, Assess Down framework by Scott Norton
+Licensed under CC BY 4.0
+```
+
+### Full Attribution
+
+```
+Build Up, Assess Down: A Dependency-Based Operating Model for PCI DSS Compliance
+by Scott Norton (2025)
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0)
+[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+```
+
+### Academic Citation
+
+For academic or professional work, please use the citation formats provided in the [README.md](http://README.md).
+
+---
+
+## Commercial Use
+
+You are explicitly permitted to:
+
+- Use this framework in commercial training programs
+- Adapt the materials for client engagements
+- Incorporate the concepts into proprietary methodologies
+- Create derivative works for sale or licensing
+
+All we ask is that you provide appropriate attribution as described above.
+
+---
+
+## Copyright Notice
+
+Copyright © 2025 Scott Norton
+
+This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/) or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+---
+
+## License Rationale
+
+We chose CC BY 4.0 because:
+
+- **Open knowledge**: PCI DSS compliance challenges are industry-wide. Solutions should be accessible.
+- **Commercial compatibility**: Training providers and consultants can build businesses around the framework.
+- **Academic freedom**: Researchers can cite, extend, and validate the model.
+- **Attribution preserves quality**: Requiring credit ensures users can trace concepts back to authoritative sources.
+
+---
+
+## Questions?
+
+For licensing questions or special arrangements, please open a GitHub Discussion or submit an issue.
