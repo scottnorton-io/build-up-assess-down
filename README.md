@@ -137,10 +137,10 @@ Production-ready training curriculum for 90-minute flagship workshop.
 
 | Artifact | Path | Description |
 | --- | --- | --- |
-| Facilitator Guide | [workshop/](workshop/facilitator-guide.md)[facilitator-guide.md](http://facilitator-guide.md) | Minute-by-minute delivery guide with exercises |
-| Keynote Deck | [workshop/](workshop/keynote-deck.md)[keynote-deck.md](http://keynote-deck.md) | 12-slide presentation with speaker script |
-| Master Diagram | [workshop/slides/](workshop/slides/master-diagram.md)[master-diagram.md](http://master-diagram.md) | Three-lens reconciliation visual |
-| Dependency Stack | [workshop/slides/](workshop/slides/dependency-stack.md)[dependency-stack.md](http://dependency-stack.md) | Six-layer architecture diagram |
+| Facilitator Guide | [workshop/](workshop/facilitator-guide.md)[facilitator-guide.md](workshop/facilitator-guide.md) | Minute-by-minute delivery guide with exercises |
+| Keynote Deck | [workshop/](workshop/keynote-deck.md)[keynote-deck.md](workshop/keynote-deck.md) | 12-slide presentation with speaker script |
+| Master Diagram | [workshop/slides/](workshop/slides/master-diagram.md)[master-diagram.md](workshop/slides/master-diagram.md) | Three-lens reconciliation visual |
+| Dependency Stack | [workshop/slides/](workshop/slides/dependency-stack.md)[dependency-stack.md](workshop/slides/dependency-stack.md) | Six-layer architecture diagram |
 
 **Workshop flow:**
 
@@ -156,11 +156,11 @@ Five practitioner templates validated through workshops with 90%+ recognition ra
 
 | Template | Path | Use Case |
 | --- | --- | --- |
-| 01: Dependency Map | [field-kit/](field-kit/01-dependency-map.md)[01-dependency-map.md](http://01-dependency-map.md) | Architecture review and design validation |
-| 02: Evidence Storyboard | [field-kit/](field-kit/02-evidence-storyboard.md)[02-evidence-storyboard.md](http://02-evidence-storyboard.md) | Continuous evidence generation |
-| 03: Remediation Ledger | [field-kit/](field-kit/03-remediation-ledger.md)[03-remediation-ledger.md](http://03-remediation-ledger.md) | Preventing milestone theater |
-| 04: Advisor Questions | [field-kit/](field-kit/04-advisor-questions.md)[04-advisor-questions.md](http://04-advisor-questions.md) | Shifting from compliance-checking to design-improving |
-| 05: Failure Mode Library | [field-kit/](field-kit/05-failure-modes.md)[05-failure-modes.md](http://05-failure-modes.md) | Pattern recognition and prevention |
+| 01: Dependency Map | [field-kit/](field-kit/01-dependency-map.md)[01-dependency-map.md](field-kit/01-dependency-map.md) | Architecture review and design validation |
+| 02: Evidence Storyboard | [field-kit/](field-kit/02-evidence-storyboard.md)[02-evidence-storyboard.md](field-kit/02-evidence-storyboard.md) | Continuous evidence generation |
+| 03: Remediation Ledger | [field-kit/](field-kit/03-remediation-ledger.md)[03-remediation-ledger.md](field-kit/03-remediation-ledger.md) | Preventing milestone theater |
+| 04: Advisor Questions | [field-kit/](field-kit/04-advisor-questions.md)[04-advisor-questions.md](field-kit/04-advisor-questions.md) | Shifting from compliance-checking to design-improving |
+| 05: Failure Mode Library | [field-kit/](field-kit/05-failure-modes.md)[05-failure-modes.md](field-kit/05-failure-modes.md) | Pattern recognition and prevention |
 
 ### Certification Program
 
@@ -168,8 +168,8 @@ Two-tier certification structure with beta launch strategy.
 
 | Document | Path | Description |
 | --- | --- | --- |
-| Program Overview | [certification/](certification/program-overview.md)[program-overview.md](http://program-overview.md) | Certification structure and requirements |
-| Beta Logistics | [certification/](certification/beta-logistics.md)[beta-logistics.md](http://beta-logistics.md) | Q1 2026 beta workshop delivery guide |
+| Program Overview | [certification/](certification/program-overview.md)[program-overview.md](certification/program-overview.md) | Certification structure and requirements |
+| Beta Logistics | [certification/](certification/beta-logistics.md)[beta-logistics.md](certification/beta-logistics.md) | Q1 2026 beta workshop delivery guide |
 
 ### Implementation
 
@@ -177,7 +177,7 @@ Operational roadmap for Q1 2026 launch.
 
 | Document | Path | Description |
 | --- | --- | --- |
-| Q1 2026 Roadmap | [implementation/](implementation/q1-2026-roadmap.md)[q1-2026-roadmap.md](http://q1-2026-roadmap.md) | Four-phase execution plan |
+| Q1 2026 Roadmap | [implementation/](implementation/q1-2026-roadmap.md)[q1-2026-roadmap.md](implementation/q1-2026-roadmap.md) | Four-phase execution plan |
 
 ### Visual Specifications
 
@@ -185,7 +185,7 @@ Design standards for diagrams and presentation materials.
 
 | Document | Path | Description |
 | --- | --- | --- |
-| Design Standards | [visual-specs/](visual-specs/design-standards.md)[design-standards.md](http://design-standards.md) | Color schemes, typography, diagram conventions |
+| Design Standards | [visual-specs/](visual-specs/design-standards.md)[design-standards.md](visual-specs/design-standards.md) | Color schemes, typography, diagram conventions |
 
 ---
 
@@ -388,7 +388,7 @@ This research was informed by practitioner workshops, assessor discussions, and 
 - Conference presentations
 - Advisory engagements
 
-Please open a [GitHub Discussion](https://github.com/johansongroup/build-up-assess-down/discussions) or submit an issue.
+Please open a [GitHub Discussion](https://github.com/scottnorton-io/build-up-assess-down/discussions) or submit an issue.
 
 ---
 
